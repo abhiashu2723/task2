@@ -926,7 +926,7 @@ color: #FFFFFF;
     margin-left: 25px;
   }
   .vadilate {
-    display: flex;
+    display: block;
   }
   .form4 {
     margin-left: 25px;
